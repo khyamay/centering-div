@@ -1,4 +1,4 @@
 centering-css
 =============
 
-Centering Css cc > www.tutplus.com
+Centering Css cc www.tutsplus.com
