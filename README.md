@@ -1,4 +1,4 @@
-centering-css
+Centering Div
 =============
 
-Centering Css cc www.tutsplus.com
+Centering Div using CSS cc www.tutsplus.com
